@@ -1,0 +1,45 @@
+.bg_container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height: 100vh;
+    background-size: cover;
+    margin: 5px;
+    padding: 5px;
+}
+.image{
+    border-radius: 16px;
+    padding:5px;
+    border-color: red;
+}
+.heading{
+    font-family: "Roboto";
+    font-size:25px;
+    font-weight: bold;
+    color: white;
+    margin-left: 16px;
+}
+.button{
+    background-color: white;
+    color: #ff8348;
+    height: 42px;
+    width: 130px;
+    padding: 5px;
+    margin-right: 16px;
+    font-size: 13px;
+    border-radius: 8px;
+    border: white solid 5px;
+}
+.paragragh{
+    font-family: "Robot";
+    font-size: 15px;
+    color:white;
+    margin-left: 16px;
+    padding:5px;
+    margin-right: 10px;
+}
+.heading2{
+    font-family: "Roboto";
+    font-size:20px;
+    font-weight: bold;
+    color: white;
+    margin-left: 16px;
+}
